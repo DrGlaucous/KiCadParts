@@ -1,0 +1,17 @@
+
+Add these to use the libraries in this directory:
+
+In path section:
+
+KICAD_TRACKED_LIBRARIES	|	C:\Users\$USERNAME$\Documents\GitHub\KiCadParts
+
+In schematic library section:
+
+Espressif	|	${KICAD_TRACKED_LIBRARIES}/3rdParty/ESP32 Set 1/libraries/Espressif.kicad_sym
+My_Library	|	${KICAD_TRACKED_LIBRARIES}/Custom/symbols/My_Library.kicad_sym
+
+
+In footprint library section:
+
+Espressif	|	${KICAD_TRACKED_LIBRARIES}/3rdParty/ESP32 Set 1/footprints/Espressif.pretty
+My_Library	|	${KICAD_TRACKED_LIBRARIES}/Custom/footprints/My_Library.pretty
