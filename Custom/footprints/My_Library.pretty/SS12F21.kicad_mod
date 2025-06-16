@@ -59,10 +59,10 @@
 		(end 5.3 2.5)
 		(stroke
 			(width 0.1)
-			(type default)
+			(type solid)
 		)
 		(fill no)
-		(layer "User.1")
+		(layer "F.SilkS")
 		(uuid "3cf9fc4b-06d3-4e30-9e16-3bb9686ea7c5")
 	)
 	(fp_rect
@@ -70,10 +70,10 @@
 		(end -2.6 5.3)
 		(stroke
 			(width 0.1)
-			(type default)
+			(type solid)
 		)
 		(fill no)
-		(layer "User.1")
+		(layer "F.SilkS")
 		(uuid "85bf894a-5c74-4b89-bb90-19d383c93f70")
 	)
 	(fp_rect
@@ -81,11 +81,55 @@
 		(end 0 -2.5)
 		(stroke
 			(width 0.1)
-			(type default)
+			(type solid)
 		)
 		(fill no)
-		(layer "User.1")
+		(layer "F.SilkS")
 		(uuid "d8d50b42-4096-470f-b6a2-2e58b2d4e18e")
+	)
+	(fp_rect
+		(start -1.2 1.1)
+		(end 1.2 2.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "cc6bcd60-8534-4b37-85fb-7b7ee04dd68b")
+	)
+	(fp_rect
+		(start -0.4 2.5)
+		(end 0.4 5.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "39ee9a95-5906-4b3e-86c6-f2361e62146d")
+	)
+	(fp_rect
+		(start 0 -5.5)
+		(end 3 -2.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "1a2c33bb-c4d4-47ff-aa50-57a528611c9a")
+	)
+	(fp_rect
+		(start 2.6 2.5)
+		(end 3.4 5.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "5f5cfdb8-026c-4681-a9b2-154e32474e3c")
 	)
 	(fp_rect
 		(start -1.5 -3.9)
@@ -97,50 +141,6 @@
 		(fill no)
 		(layer "User.1")
 		(uuid "c9515f70-94a4-48a3-ab30-f29685bc2a2f")
-	)
-	(fp_rect
-		(start -1.2 1.1)
-		(end 1.2 2.5)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(fill no)
-		(layer "User.1")
-		(uuid "cc6bcd60-8534-4b37-85fb-7b7ee04dd68b")
-	)
-	(fp_rect
-		(start -0.4 2.5)
-		(end 0.4 5.3)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(fill no)
-		(layer "User.1")
-		(uuid "39ee9a95-5906-4b3e-86c6-f2361e62146d")
-	)
-	(fp_rect
-		(start 0 -5.5)
-		(end 3 -2.5)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(fill no)
-		(layer "User.1")
-		(uuid "1a2c33bb-c4d4-47ff-aa50-57a528611c9a")
-	)
-	(fp_rect
-		(start 2.6 2.5)
-		(end 3.4 5.3)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(fill no)
-		(layer "User.1")
-		(uuid "5f5cfdb8-026c-4681-a9b2-154e32474e3c")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 7.2 0)
